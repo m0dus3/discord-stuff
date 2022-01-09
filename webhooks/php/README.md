@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a>
-    <img src="images/logo.png" width="80" height="80">
+    <img src="https://cdn.discordapp.com/icons/895068134833266718/2642cfeaf6a68e661b46bcb588296843.webp?size=96" width="80" height="80">
   </a>
 
 <h3 align="center">Discord Webhooks</h3>
