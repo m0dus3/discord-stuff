@@ -16,11 +16,11 @@ module.exports = {
                 .addFields(
                     {
                         name: "!addpoints @discordtag (neu, alt) punkteanzahl",
-                        value: "Beispiel: !addpoints @mooduuss neu 1000\nBeispiel: !addpoints @MahmutJackson alt 1000"
+                        value: "Beispiel: !addpoints @mooduuss neu 1000\nBeispiel: !addpoints @mooduuss alt 1000"
                     },
                     {
                         name: "!removepoints @discordtag (neu, alt) punkteanzahl",
-                        value: "Beispiel: !removepoints @mooduuss neu 1000\nBeispiel: !removepoints @MahmutJackson alt 1000"
+                        value: "Beispiel: !removepoints @mooduuss neu 1000\nBeispiel: !removepoints @mooduuss alt 1000"
                     },
                     {
                         name: "!showpoints",
